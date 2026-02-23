@@ -1,5 +1,12 @@
 # agent-hr
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-hr/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-hr/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-hr)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-hr)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-hr)
+
 ## Detailed Description
 
 agent-hr is maintained as an industry-grade software project with production-ready engineering practices.  
